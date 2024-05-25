@@ -1,0 +1,21 @@
+JavaApplication6 is for little datasets.JavaApplication3 is for bigger datasets cause it is made by using 1 Array DP Table.It is tricky to make it so that it gives weights cause of 1 Array DP Table.JavaApplication5 gives you datasets weights etc. in a .csv file so you can use it in a python code.pythonProject3 takes those in .csv file and builds a graph out of them so you can make comments on graphs.I share an example dataset here.First line left side shows total of rows in dataset.First line right side shows total weight that it shouldnt pass.
+19 31181
+1945 4990
+321 1142
+2945 7390
+4136 10372
+1107 3114
+1022 2744
+1101 3102
+2890 7280
+962 2624
+1060 3020
+805 2310
+689 2078
+1513 3926
+3878 9656
+13504 32708
+1865 4830
+667 2034
+1833 4766
+16553 40006
